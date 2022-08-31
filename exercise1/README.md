@@ -1,7 +1,7 @@
 ### Small coding exercise 1
 
 
-Task 1.1 Prepare a jupyter notebook with the following two sections:
+Task 1.1 Prepare a jupyter notebook with the following three sections:
 
 
 Section 1: A brief introduction of yourself in Markdown that talks about:

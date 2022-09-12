@@ -1,4 +1,4 @@
-### Small coding exercise 2
+### Small coding exercise 3
 
 **Task 3.1** Write a function that takes a list of numbers as input, finds the largest and smallest element of the list, 
 and returns the largest element minus the smallest element as output.

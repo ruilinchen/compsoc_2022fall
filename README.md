@@ -9,6 +9,7 @@ assigned to those enrolled in a computational method course in 2022Fall and thei
 * [coding exercise 2](https://github.com/ruilinchen/compsoc_2022fall/tree/main/exercise2)
 * [coding exercise 3](https://github.com/ruilinchen/compsoc_2022fall/tree/main/exercise3)
 * [coding exercise 4](https://github.com/ruilinchen/compsoc_2022fall/tree/main/exercise4)
+* [coding exercise 5](https://github.com/ruilinchen/compsoc_2022fall/tree/main/exercise5)
 
 
 

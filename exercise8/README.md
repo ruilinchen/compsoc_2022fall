@@ -13,7 +13,7 @@ Use a different map design (marker color, tile style, etc).
 Use boston's zoning map from [here](https://data.boston.gov/dataset/boston-zoning-subdistricts) to map individual crime incidents to zoning district. 
 Create a bubble map for these two sets of counts. 
 There should be two sets of bubbles in your map. 
-One set represents zoning subdistrict-level violent crime counts, and the other set zoning subdistrict-level property crime counts. 
+One set represents **zoning subdistrict-level** violent crime counts, and the other set zoning subdistrict-level property crime counts. 
 These two bubble sets should be colored differently, but the size of the bubble for both sets should indicate the relative size of the crime count. 
 Use each zoning subdistrict’s centroid location to place their bubbles on the map. 
 
